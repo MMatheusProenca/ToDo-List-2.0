@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list-express",
+  "version": "1.0.0",
+  "description": "ToDo list build with express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Proenca",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
